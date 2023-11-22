@@ -1,6 +1,6 @@
-|Spaltentitel|Beschreibung                                  |
-|------------|----------------------------------------------|
-|Liste       |Listennummer                                  |
-|Listekurzbez|Listenkurzbezeichnung                         |
-|LV          |Identifikationsnummer der Listenverbidung     |
-|LUV         |Identifikationsnummer der Listenunterverbidung|
+| Spaltentitel | Beschreibung                                   | Format  |
+| ------------ | ---------------------------------------------- | ------- |
+| Liste        | Listennummer                                   | string  |
+| Listekurzbez | Listenkurzbezeichnung                          | string  |
+| LV           | Identifikationsnummer der Listenverbidung      | numeric |
+| LUV          | Identifikationsnummer der Listenunterverbidung | numeric |
